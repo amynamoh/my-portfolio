@@ -18,10 +18,6 @@ const SkillsSection = () => {
         <Title>Skills</Title>
         <SkllsList>
           <SkllsListItem>
-            <SkllsImage src={NextJs} alt="nextjs" />
-            <p>NextJs</p>
-          </SkllsListItem>
-          <SkllsListItem>
             <SkllsImage src={React} alt="react" style={{ color: "#fff" }} />
             <p>ReactJs</p>
           </SkllsListItem>
@@ -61,14 +57,6 @@ const SkillsSection = () => {
             <p>Typescript</p>
           </SkllsListItem>
 
-          <SkllsListItem>
-            <SkllsImage src={Mongo} alt="mongodb" />
-            <p>MongoDb</p>
-          </SkllsListItem>
-          <SkllsListItem>
-            <SkllsImage src={Node} alt="node" />
-            <p>NodeJs</p>
-          </SkllsListItem>
         </SkllsList>
       </Skills>
     </Container>

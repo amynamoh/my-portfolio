@@ -19,7 +19,7 @@ const Footer = () => {
       <FooterContents>
         <Footerleft>
           <FooterLeftItem>
-            <FooterLink href="https://github.com/Adepejustephen">
+            <FooterLink href="https://github.com/amynamoh">
               Github
             </FooterLink>
           </FooterLeftItem>
@@ -29,14 +29,14 @@ const Footer = () => {
             </FooterLink>
           </FooterLeftItem>
           <FooterLeftItem>
-            <FooterLink href="https://github.com/Adepejustephen">
+            <FooterLink href="https://twitter.com/amynamoh">
               Twitter
             </FooterLink>
           </FooterLeftItem>
         </Footerleft>
         <Right>
           &#169;
-          {year} <span></span>Ifeoluwa Adepeju
+          {year} <span></span>Amina Mohammed
         </Right>
       </FooterContents>
     </FooterContainer>

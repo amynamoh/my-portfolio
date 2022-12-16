@@ -30,7 +30,7 @@ const Header = () => {
           offset={0}
           duration={500}
         >
-          <LogoText>Ifeoluwa</LogoText>
+          <LogoText>Amina</LogoText>
         </Logo>
         <NavMenu>
           <NavList>
@@ -63,8 +63,8 @@ const Header = () => {
             </NavListItem>
             <NavListItem>
               <a
-                href="mailto:adepejuifeoluwa97@gmail.com"
-                // ={"mailto:adepejuifeoluwa97@gmail.com"}
+                href="mailto:aminaumohammed@gmail.com"
+                // ={"mailto:aminaumohammed@gmail.com"}
               >
                 Contact Me
               </a>

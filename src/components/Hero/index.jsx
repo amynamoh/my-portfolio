@@ -8,7 +8,7 @@ const Hero = () => {
       <HeroContainer name="hero">
         <HeroTextContainer>
           <TopText>Hi!</TopText>
-          <NameBold>I'm Ifeoluwa.</NameBold>
+          <NameBold>I'm Amina.</NameBold>
           <Intro>
             I'm a <span>Frontend Developer</span> with a constant<br></br> push
             for growth and experiences.
