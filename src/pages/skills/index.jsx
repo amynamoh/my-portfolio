@@ -50,14 +50,14 @@ const SkillsSection = () => {
             <p>Html</p>
           </SkllsListItem>
         </SkllsList>
-        <SubTitle>Learning</SubTitle>
+        {/* <SubTitle>Learning</SubTitle>
         <SkllsList>
           <SkllsListItem>
             <SkllsImage src={TypeScript} alt="Html5" />
             <p>Typescript</p>
           </SkllsListItem>
 
-        </SkllsList>
+        </SkllsList> */}
       </Skills>
     </Container>
   );

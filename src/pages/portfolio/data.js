@@ -20,7 +20,7 @@ export const data = [
     img: NetFlix,
     live: "https://netflixclone-ife.netlify.app",
     git: "https://netflixclone-ifeade.netlify.app/",
-    direction: false,
+    direction: true,
   },
   {
     tile: "Save-space landing page ",
@@ -36,7 +36,7 @@ export const data = [
     img: Cart,
     live: "https://typsciptshopcart.netlify.app/",
     git: "https://github.com/Adepejustephen/typescript-shopping-cart",
-    direction: false,
+    direction: true,
   },
   {
     tile: "Crappo landing page",
@@ -58,6 +58,6 @@ export const data = [
   //   tile: "NextFlix Clone",
   //   desc: "Getshoesng is a fullstack ecommerce website built with Nextjs, MaterialUI, Css and MongoDb as database. This project is really dear to me because it represents my Nextjs learning process and also exposed me to more technical aspects of the web(for example, Mongo db).",
   //   img: NetFlix,
-  //   direction: false,
+  //   direction: true,
   // },
 ];

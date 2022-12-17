@@ -24,7 +24,7 @@ const Footer = () => {
             </FooterLink>
           </FooterLeftItem>
           <FooterLeftItem>
-            <FooterLink href="https://github.com/Adepejustephen">
+            <FooterLink href="https://www.linkedin.com/in/amina-mohammed-29b1b61a6/">
               Linkedin
             </FooterLink>
           </FooterLeftItem>

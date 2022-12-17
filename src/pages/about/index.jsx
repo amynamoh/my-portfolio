@@ -26,11 +26,11 @@ const About = () => {
       {/* <Header /> */}
       <Container name="about">
         <AboutContainer>
-          <AboutLeft>
-            <AboutImageContainer>
-              <AboutImage src={Image} alt="ife_headshot" />
-            </AboutImageContainer>
-          </AboutLeft>
+          {/* <AboutLeft> */}
+            {/* <AboutImageContainer> */}
+              {/* <AboutImage src={Image} alt="ife_headshot" /> */}
+            {/* </AboutImageContainer> */}
+          {/* </AboutLeft> */}
           <AboutTextContainer>
             <AboutTitle>About Me</AboutTitle>
             <AboutText>
