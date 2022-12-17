@@ -1,26 +1,24 @@
-import NetFlix from '../../assests/images/Ifeoluwa-Netflix-clone.png'
-import Menshoes from '../../assests/images/MENSHOESNG.png'
+import Portfolioweb from '../../assests/images/portfolioweb.png'
+import Education from '../../assests/images/education.png'
 import SaveGuard from '../../assests/images/saveguard.png'
-import Cart from '../../assests/images/Cart.png'
-// import Crappo from '../../assests/images/crappo-small.png'
 import Flyo from '../../assests/images/flyo.png'
 import Linktree from '../../assests/images/linktree.png'
 
 export const data = [
   {
-    tile: "Menshoesng",
-    desc: "Menshoesng is a fullstack ecommerce website built with Nextjs, React, few Material UI components, Css modules and MongoDb.",
-    img: Menshoes,
-    live: "https://menshoesng.vercel.app/",
-    git: "https://github.com/Adepejustephen/menshoesng-nextjs",
+    tile: "Portfolio Sample",
+    desc: "A project portfolio template",
+    img: Portfolioweb,
+    live: "https://portfolio-web-sample.vercel.app/",
+    git: "https://github.com/amynamoh/portfolio-sample",
     direction: true,
   },
   {
-    tile: "NetFlix Clone",
-    desc: "This website was built with ReactJs, Styled components , Firebase authetication and Youtube-react. It allows autheticated users stream movie trailers when selected ",
-    img: NetFlix,
-    live: "https://netflixclone-ife.netlify.app",
-    git: "https://netflixclone-ifeade.netlify.app/",
+    tile: "Class website",
+    desc: "It is an education website and it was built using HTML, CSS and Javascript.",
+    img: Education,
+    live: "https://education-websitee.vercel.app/",
+    git: "https://github.com/amynamoh/education_website",
     direction: true,
   },
   {
@@ -29,14 +27,6 @@ export const data = [
     img: SaveGuard,
     live: "https://saveguard.vercel.app/",
     git: "https://github.com/amynamoh/saveguard",
-    direction: true,
-  },
-  {
-    tile: "Shopping Cart ",
-    desc: "This website was built with React and Typescript ",
-    img: Cart,
-    live: "https://typsciptshopcart.netlify.app/",
-    git: "https://github.com/Adepejustephen/typescript-shopping-cart",
     direction: true,
   },
   {
