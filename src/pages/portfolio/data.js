@@ -1,9 +1,9 @@
 import NetFlix from '../../assests/images/Ifeoluwa-Netflix-clone.png'
-import Shop9ja from '../../assests/images/shop9ja.png'
 import Menshoes from '../../assests/images/MENSHOESNG.png'
-import SaveSpace from '../../assests/images/save-space.png'
+import SaveGuard from '../../assests/images/saveguard.png'
 import Cart from '../../assests/images/Cart.png'
 import Crappo from '../../assests/images/crappo-small.png'
+import Linktree from '../../assests/images/linktree.png'
 
 export const data = [
   {
@@ -23,11 +23,11 @@ export const data = [
     direction: true,
   },
   {
-    tile: "Save-space landing page ",
-    desc: "Save-space landing page design implemented with ReactJs and Css ",
-    img: SaveSpace,
-    live: "https://save-space-designweb.netlify.app/",
-    git: "https://github.com/Adepejustephen/savespace-landing-page",
+    tile: "Save-Guard landing page ",
+    desc: "Save-Guard landing page design implemented with ReactJs and Css ",
+    img: SaveGuard,
+    live: "https://saveguard.vercel.app/",
+    git: "https://github.com/amynamoh/saveguard",
     direction: true,
   },
   {
@@ -47,17 +47,12 @@ export const data = [
     direction: true,
   },
   {
-    tile: "Shop9ja  Dashboard",
-    desc: "Shop9ja is an admin dashboard buillt with Reactjs and Css ",
-    img: Shop9ja,
-    live: "https://shop9ja-dashboard.netlify.app/",
-    git: "https://github.com/Adepejustephen/Admin-dashboard-react",
+    tile: "Linktree  Clone",
+    desc: "It is a tool that allows you to share multiple links on social media, built Reactjs and Css ",
+    img: Linktree,
+    live: "https://amina-linktree-clone.netlify.app/",
+    git: "https://github.com/amynamoh/HNG-task-1",
     direction: true,
   },
-  // {
-  //   tile: "NextFlix Clone",
-  //   desc: "Getshoesng is a fullstack ecommerce website built with Nextjs, MaterialUI, Css and MongoDb as database. This project is really dear to me because it represents my Nextjs learning process and also exposed me to more technical aspects of the web(for example, Mongo db).",
-  //   img: NetFlix,
-  //   direction: true,
-  // },
+
 ];

@@ -1,8 +1,5 @@
 import {
   AboutContainer,
-  AboutImage,
-  AboutImageContainer,
-  AboutLeft,
   AboutText,
   AboutTextContainer,
   AboutTitle,
@@ -12,12 +9,6 @@ import {
 } from "./About.Styles";
 
 import Image from '../../assests/images/ife_officail_shot.jpeg'
-
-// import { Footer, Header } from "../../components";
-// import Main from "../../styles/MainAnimate";
-// import { useViewportScroll } from "framer-motion";
-
-// const { scrollYProgress } = useViewportScroll();
 
 const About = () => {
   return (

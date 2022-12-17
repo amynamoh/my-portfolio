@@ -26,7 +26,7 @@ const Portfolio = () => {
                     <Text>{item.desc}</Text>
                     <Buttons>
                       <Btn>
-                        <BtnLink href={item.live}>
+                        <BtnLink  target="blank" href={item.live}>
                           Preview
                           <IconContainer>
                             <UilEyeSlash />
@@ -34,7 +34,7 @@ const Portfolio = () => {
                         </BtnLink>
                       </Btn>
                       <Btn>
-                        <BtnLink href={item.git}>
+                        <BtnLink  target="blank" href={item.git}>
                           GitHub
                           <IconContainer>
                             <UilArrowUpRight />

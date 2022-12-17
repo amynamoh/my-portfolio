@@ -1,15 +1,11 @@
 import { Container, Skills, SkllsImage, SkllsList, SkllsListItem, SubTitle, Title } from './Skills.style'
-import NextJs from "../../assests/images/nextdotjs.svg";
 import Javascript from "../../assests/images/javascript.svg";
 import React from "../../assests/images/react.svg";
 import Git from "../../assests/images/git.svg";
 import Css from "../../assests/images/css3.svg";
 import StyledComponents from "../../assests/images/styledcomponents.svg";
 import Sass from "../../assests/images/sass.svg";
-import Mongo from "../../assests/images/mongodb.svg";
 import Html from "../../assests/images/html5.svg";
-import TypeScript from "../../assests/images/typescript.svg";
-import Node from "../../assests/images/nodedotjs.svg";
 
 const SkillsSection = () => {
   return (
