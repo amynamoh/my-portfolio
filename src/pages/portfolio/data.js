@@ -2,7 +2,8 @@ import NetFlix from '../../assests/images/Ifeoluwa-Netflix-clone.png'
 import Menshoes from '../../assests/images/MENSHOESNG.png'
 import SaveGuard from '../../assests/images/saveguard.png'
 import Cart from '../../assests/images/Cart.png'
-import Crappo from '../../assests/images/crappo-small.png'
+// import Crappo from '../../assests/images/crappo-small.png'
+import Flyo from '../../assests/images/flyo.png'
 import Linktree from '../../assests/images/linktree.png'
 
 export const data = [
@@ -39,11 +40,11 @@ export const data = [
     direction: true,
   },
   {
-    tile: "Crappo landing page",
-    desc: "Crappo is a crypto landing page website design implemented with React, Typescript, Styled-components and Framer-motion ",
-    img: Crappo,
-    live: "https://crappo-landing-page-vert.vercel.app",
-    git: "https://github.com/Adepejustephen/Crappo-landing-page",
+    tile: "Flyo landing page",
+    desc: "Flyo is a landing page website design where all your files in one secure location, accessible anywhere.",
+    img: Flyo,
+    live: "https://flyo-web.vercel.app/",
+    git: "https://github.com/amynamoh/flyo",
     direction: true,
   },
   {
