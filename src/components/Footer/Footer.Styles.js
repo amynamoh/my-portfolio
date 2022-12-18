@@ -45,9 +45,11 @@ export const FooterLeftItem = styled.li`
     transition: 0.3s ease;
   }
 
-   @media screen and (max-width: 600px) {
-   display: none;
-  }
+  //  @media screen and (max-width: 600px) {
+  //  display: block;
+  // display: flex;
+  // flex-direction: row;
+  // }
 `;
 
 export const FooterLink = styled.a`
